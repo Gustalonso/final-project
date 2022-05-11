@@ -1,0 +1,60 @@
+i{
+   font-size: 100px;
+}
+.container { 
+   width: 1000px;
+   background-color: black;
+   margin: auto;
+   
+
+}
+header{
+   margin-bottom: 0;
+   height: 400px;
+   background-color: brown;
+   border: 5px solid black;
+   background-image: url('../images/Food.jpg');
+   background-size: cover;
+   background-position: center;
+   font-size: 2em;
+
+}
+img{
+   width: auto; 
+   height: 200px;
+   float: left;
+}
+nav{
+   background-color: #734440;
+   height: 200px;
+   width: 100%;
+   
+}
+main{
+   background-color: hsl(0, 8%, 38%);
+   height: 600px;
+   width: 100%;
+}
+a{
+   padding: 10px;
+   text-decoration: none;
+   background-color:#DAC49C;
+   color:black;
+   
+   float: right;
+
+
+}
+a:link {
+    background-color: #DAC49C;
+   
+  }
+
+  
+  a:hover {
+    background-color: rgb(70, 70, 255);
+  }
+  
+  a:active {
+    background-color: whitesmoke;
+  }
